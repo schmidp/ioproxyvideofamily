@@ -1,0 +1,1 @@
+IOProxyVideoFamily is a collection of kernel extensions implementing a proxy graphics card and associated IOFramebuffers. This may be used to create fake displays on Mac OS X, and is intended for use with a project such as [Satellite Displays](http://code.google.com/p/satellitedisplays).
